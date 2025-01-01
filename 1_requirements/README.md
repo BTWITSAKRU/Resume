@@ -1,4 +1,4 @@
-### **High-Level Requirements (HLR)  
+### High-Level Requirements (HLR)  
 1. **Frequency Range:** The design should support polarization conversion within the 4–8 GHz band.  
 2. **Polarization Modes:** The system must convert between linear and circular polarizations effectively.  
 3. **Multiband Functionality:** It should support multiple frequency bands in the specified range.  
@@ -37,4 +37,3 @@
    - Minimize power consumption of reconfigurable elements (<5 W per module).  
    - Ensure compatibility with existing communication infrastructure.  
 
-Would you like further elaboration on any specific section?
