@@ -1,4 +1,4 @@
-#### **### Requirements for Multiband Reflective Polarization Conversion Using Reconfigurable Metasurface
+#### **Requirements for Multiband Reflective Polarization Conversion Using Reconfigurable Metasurface
 
 #### **1. Design Specifications**
 - **Frequency Range:** 4–8 GHz (C-band for satellite communication and radar applications).
@@ -36,4 +36,4 @@
 #### **7. Applications**
 - **Satellite Communication:** Enhance polarization matching in satellite links.
 - **Radar Systems:** Improve signal quality and reduce mismatches.
-- **5G Networks:** Support advanced communication standards with adaptable polarization**
+- **5G Networks:** Support advanced communication standards with adaptable polarization
